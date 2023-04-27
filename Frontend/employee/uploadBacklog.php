@@ -1,0 +1,1 @@
+UPDATE `student_section` SET `marksObtained` = '97' WHERE `student_section`.`studentID` = 2021367 AND `student_section`.`sectionID` = 400001;
